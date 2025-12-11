@@ -142,12 +142,14 @@ Each record corresponds to one message (utterance) in a counseling conversation.
 If you use this dataset, please cite:
 
 ```
-@inproceedings{oncocoLREC2026,
-  title={OnCoCo 1.0: A Public Dataset for Fine-Grained Message Classification in Online Counseling Conversations},
-  author={Albrecht, Jens and Lehmann, Robert and Poltermann, Aleksandra and Rudolph, Eric and Steigerwald, Philipp and Stieler, Mara},
-  booktitle={Proceedings of the Thirteenth International Conference on Language Resources and Evaluation (LREC 2026)},
-  year={2026},
-  publisher={European Language Resources Association (ELRA)}
+@misc{albrecht2025oncoco10publicdataset,
+      title={OnCoCo 1.0: A Public Dataset for Fine-Grained Message Classification in Online Counseling Conversations}, 
+      author={Jens Albrecht and Robert Lehmann and Aleksandra Poltermann and Eric Rudolph and Philipp Steigerwald and Mara Stieler},
+      year={2025},
+      eprint={2512.09804},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2512.09804}, 
 }
 ```
 
